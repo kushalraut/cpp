@@ -1,13 +1,12 @@
 //PROGRAM TO DISPLAY THE INPUT FROM USER//
 
-#include<iostream.h>
+#include<iostream>
 #include<conio.h>
-void main()
+int main()
 {
  float num1;
- clrscr();
- cout<<"Enter Number\n";
- cin>>num1;
- cout<<"The Number Entered is:- "<<num1;
+ std::cout<<"Enter Number\n";
+ std::cin>>num1;
+ std::cout<<"The Number Entered is:- "<<num1;
  getch();
- } 
+ }

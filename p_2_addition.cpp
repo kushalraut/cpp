@@ -1,14 +1,13 @@
 //PROGRAM TO do ADDITION of Two Numbers//
 
-#include<iostream.h>
+#include<iostream>
 #include<conio.h>
-void main()
+int main()
 {
- float no1,no2,sum;
- clrscr();
- cout<<"ENTER Two Numbers:\n";
- cin>>no1>>no2;
+ int no1,no2,sum;
+ std::cout<<"ENTER Two Numbers:\n";
+ std::cin>>no1>>no2;
  sum=no1+no2;
- cout<<"ADDITION IS:- "<<sum;
+ std::cout<<"ADDITION IS:- "<<sum;
  getch();
  }
