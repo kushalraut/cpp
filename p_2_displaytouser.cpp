@@ -1,5 +1,4 @@
-//PROGRAM TO DISPLAY THE INPUT FROM USER//
-
+//Program No.2: Print No entered by the User
 #include<iostream>
 #include<conio.h>
 int main()

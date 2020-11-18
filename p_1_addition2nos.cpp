@@ -1,4 +1,4 @@
-//PROGRAM TO do ADDITION of Two Numbers//
+//Program No.1: Add Two Numbers
 
 #include<iostream>
 #include<conio.h>
